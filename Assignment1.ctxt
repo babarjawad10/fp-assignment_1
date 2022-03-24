@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Assignment1
+comment0.text=\n\ Write\ a\ description\ of\ class\ Assignment1\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Assignment1()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Assignment1\n
+comment2.params=
+comment2.target=void\ getUnitName()
+comment3.params=
+comment3.target=void\ getStudentMarks()
+comment4.params=
+comment4.target=void\ findHighestLowestMarks()
+comment5.params=
+comment5.target=void\ findMeanAndStandardDeviationOfStudnetMarks()
+comment6.params=
+comment6.target=void\ printUnitName()
+comment7.params=
+comment7.target=void\ printStudentMarks()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
